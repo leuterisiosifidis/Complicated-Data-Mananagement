@@ -1,4 +1,4 @@
-# Hi, I'm lefterisiosifidis 👋
+# Hi, I'm lefterisiosifidis 
 
 I’m a Computer Science & Engineering student, currently exploring different domains to figure out where I want to specialize.  
 Right now, I’m focusing on building strong fundamentals (data structures, algorithms, OS, networking, databases) while shipping small projects to learn by doing.
